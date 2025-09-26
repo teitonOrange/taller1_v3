@@ -9,5 +9,5 @@ git clone https://github.com/teitonOrange/taller1_v3
 Once done, you can run it with 
 
 ```bash
-cargo run
+cargo run --release
 ```
